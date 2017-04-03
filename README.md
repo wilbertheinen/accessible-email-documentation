@@ -14,6 +14,7 @@ Articles:
 * http://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters
 * https://www.frankwatching.com/archive/2017/02/02/4-aspecten-waarmee-je-jouw-e-mailnieuwsbrieven-toegankelijker-maakt/ [Dutch]
 * https://www.frankwatching.com/archive/2017/02/09/6-oplossingen-om-je-nieuwsbrief-nog-toegankelijker-te-maken/ [Dutch]
+* https://www.microsoft.com/en-us/Design/inclusive
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
