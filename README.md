@@ -26,3 +26,4 @@ Tools:
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
+* https://www.smashingmagazine.com/tag/accessibility/
