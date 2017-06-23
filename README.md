@@ -1,5 +1,5 @@
 # Accessible Email
-**A list of great articles about accessibility in email**
+**A list of great articles about accessibility in general and specifically for email**
 
 Articles:
 * https://www.campaignmonitor.com/resources/guides/accessibility/
@@ -19,6 +19,7 @@ Articles:
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
 * https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights
+* https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible [NEW]
 
 Tools:
 * http://www.accessible-email.org/
@@ -26,7 +27,11 @@ Tools:
 * http://webanywhere.cs.washington.edu/wa.php
 * https://achecker.ca/checker/index.php
 * http://www.checkmycolours.com/
+* VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625 [NEW]
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
 * https://www.smashingmagazine.com/tag/accessibility/
+* https://axesslab.com/accessibility-according-to-pwd/ [NEW]
+* Tips from Hugo Giraudel - https://twitter.com/i/moments/877084869309980672 [NEW]
+* https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/ [NEW]
