@@ -32,7 +32,7 @@ Tools:
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
 * https://www.smashingmagazine.com/tag/accessibility/
-* https://axesslab.com/accessibility-according-to-pwd/ [NEW]
+* https://axesslab.com/accessibility-according-to-pwd/
 * Tips from Hugo Giraudel - https://twitter.com/i/moments/877084869309980672
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 * https://bitsofco.de/the-accessibility-cheatsheet/ [NEW]
