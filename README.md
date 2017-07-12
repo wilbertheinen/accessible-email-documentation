@@ -30,6 +30,7 @@ Tools:
 * VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625 [NEW]
 
 Resources:
+* https://bitsofco.de/the-accessibility-cheatsheet/ [NEW]
 * https://www.microsoft.com/en-us/Design/inclusive
 * https://www.smashingmagazine.com/tag/accessibility/
 * https://axesslab.com/accessibility-according-to-pwd/ [NEW]
