@@ -28,6 +28,7 @@ Tools:
 * https://achecker.ca/checker/index.php
 * http://www.checkmycolours.com/
 * VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625
+* Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/ [NEW]
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
