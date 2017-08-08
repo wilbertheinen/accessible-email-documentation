@@ -28,7 +28,7 @@ Tools:
 * https://achecker.ca/checker/index.php
 * http://www.checkmycolours.com/
 * VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625
-* Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/ [NEW]
+* Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -36,4 +36,5 @@ Resources:
 * https://axesslab.com/accessibility-according-to-pwd/
 * Tips from Hugo Giraudel - https://twitter.com/i/moments/877084869309980672
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
-* https://bitsofco.de/the-accessibility-cheatsheet/ [NEW]
+* https://bitsofco.de/the-accessibility-cheatsheet/
+* http://a11yweekly.com/ [NEW]
