@@ -15,6 +15,8 @@ Articles:
 * https://www.frankwatching.com/archive/2017/02/02/4-aspecten-waarmee-je-jouw-e-mailnieuwsbrieven-toegankelijker-maakt/ [Dutch]
 * https://www.frankwatching.com/archive/2017/02/09/6-oplossingen-om-je-nieuwsbrief-nog-toegankelijker-te-maken/ [Dutch]
 * https://www.e-village.nl/blogitem/inclusive-design-in-email [Dutch]
+* https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
+* https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -37,4 +39,13 @@ Resources:
 * Tips from Hugo Giraudel - https://twitter.com/i/moments/877084869309980672
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 * https://bitsofco.de/the-accessibility-cheatsheet/
-* http://a11yweekly.com/ [NEW]
+* http://a11yweekly.com/
+
+Books:
+* https://www.smashingmagazine.com/inclusive-design-patterns/
+* https://abookapart.com/products/accessibility-for-everyone [NEW]
+
+Webinars/Podcasts:
+* https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap [NEW]
+* https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails [NEW]
+
