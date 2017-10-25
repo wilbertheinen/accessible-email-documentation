@@ -17,6 +17,7 @@ Articles:
 * https://www.e-village.nl/blogitem/inclusive-design-in-email [Dutch]
 * https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
 * https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
+* https://uxmag.com/articles/we-re-just-temporarily-abled [NEW]
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
