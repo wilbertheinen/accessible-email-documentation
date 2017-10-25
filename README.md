@@ -44,7 +44,7 @@ Resources:
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
-* https://abookapart.com/products/accessibility-for-everyone [NEW]
+* https://abookapart.com/products/accessibility-for-everyone
 
 Webinars/Podcasts:
 * https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap [NEW]
