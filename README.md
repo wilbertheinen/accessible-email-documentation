@@ -18,6 +18,9 @@ Articles:
 * https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
 * https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
 * https://uxmag.com/articles/we-re-just-temporarily-abled [NEW]
+* https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/ [NEW]
+* https://axesslab.com/accessibility-according-to-pwd/ [NEW]
+* https://axesslab.com/trends/ [NEW]
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -32,6 +35,8 @@ Tools:
 * http://www.checkmycolours.com/
 * VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625
 * Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/
+* An ongoing project to try and curate beautiful color palettes that are a11y friendly - https://www.randoma11y.com/ [NEW]
+* Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/ [NEW]
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -41,12 +46,13 @@ Resources:
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
+* https://axesslab.com/ [NEW]
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
 * https://abookapart.com/products/accessibility-for-everyone
 
 Webinars/Podcasts:
-* https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap [NEW]
-* https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails [NEW]
+* https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap
+* https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails
 
