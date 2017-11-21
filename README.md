@@ -1,5 +1,5 @@
 # Accessible Email
-**A list of great articles about accessibility in general and specifically for email**
+**A list of great articles, tools, presentations and resources about accessibility in general and specifically for email**
 
 Articles:
 * https://www.campaignmonitor.com/resources/guides/accessibility/
@@ -17,15 +17,21 @@ Articles:
 * https://www.e-village.nl/blogitem/inclusive-design-in-email [Dutch]
 * https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
 * https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
-* https://uxmag.com/articles/we-re-just-temporarily-abled [NEW]
-* https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/ [NEW]
-* https://axesslab.com/accessibility-according-to-pwd/ [NEW]
-* https://axesslab.com/trends/ [NEW]
+* **https://uxmag.com/articles/we-re-just-temporarily-abled [NEW]**
+* **https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/ [NEW]**
+* **https://axesslab.com/accessibility-according-to-pwd/ [NEW]**
+* **https://axesslab.com/alt-texts/ [NEW]**
+* **https://axesslab.com/trends/ [NEW]**
+* **https://silktide.com/i-thought-title-text-improved-accessibility-i-was-wrong/ [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
 * https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights
 * https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible
+* **Exclusive Design – Vasilis van Gemert – btconfBER2017 - https://www.youtube.com/watch?v=T7pJmrxcesI [VIDEO][NEW]**
+* **Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 - https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO [VIDEO][NEW]**
+* **Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440 [SLIDES][NEW]**
+* **Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/ [NEW]**
 
 Tools:
 * http://www.accessible-email.org/
@@ -35,8 +41,8 @@ Tools:
 * http://www.checkmycolours.com/
 * VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625
 * Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/
-* An ongoing project to try and curate beautiful color palettes that are a11y friendly - https://www.randoma11y.com/ [NEW]
-* Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/ [NEW]
+* An ongoing project to try and curate beautiful color palettes that are a11y friendly - https://www.randoma11y.com/
+* Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -46,7 +52,7 @@ Resources:
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
-* https://axesslab.com/ [NEW]
+* https://axesslab.com/
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
