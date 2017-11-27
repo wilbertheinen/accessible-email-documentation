@@ -23,6 +23,7 @@ Articles:
 * **https://axesslab.com/alt-texts/ [NEW]**
 * **https://axesslab.com/trends/ [NEW]**
 * **https://silktide.com/i-thought-title-text-improved-accessibility-i-was-wrong/ [NEW]**
+* **https://css-tricks.com/html-email-accessibility/ [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
