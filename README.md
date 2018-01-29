@@ -17,22 +17,24 @@ Articles:
 * https://www.e-village.nl/blogitem/inclusive-design-in-email [Dutch]
 * https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
 * https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
-* **https://uxmag.com/articles/we-re-just-temporarily-abled [NEW]**
-* **https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/ [NEW]**
-* **https://axesslab.com/accessibility-according-to-pwd/ [NEW]**
-* **https://axesslab.com/alt-texts/ [NEW]**
-* **https://axesslab.com/trends/ [NEW]**
-* **https://silktide.com/i-thought-title-text-improved-accessibility-i-was-wrong/ [NEW]**
-* **https://css-tricks.com/html-email-accessibility/ [NEW]**
+* https://uxmag.com/articles/we-re-just-temporarily-abled
+* https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/
+* https://axesslab.com/accessibility-according-to-pwd/
+* https://axesslab.com/alt-texts/
+* https://axesslab.com/trends/
+* https://silktide.com/i-thought-title-text-improved-accessibility-i-was-wrong/
+* https://css-tricks.com/html-email-accessibility/
+* **https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/ [NEW]**
+* **https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67 [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
 * https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights
 * https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible
-* **Exclusive Design – Vasilis van Gemert – btconfBER2017 - https://www.youtube.com/watch?v=T7pJmrxcesI [VIDEO][NEW]**
-* **Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 - https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO [VIDEO][NEW]**
-* **Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440 [SLIDES][NEW]**
-* **Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/ [NEW]**
+* Exclusive Design – Vasilis van Gemert – btconfBER2017 - https://www.youtube.com/watch?v=T7pJmrxcesI [VIDEO]
+* Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 - https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO [VIDEO]
+* Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440 [SLIDES]
+* Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/
 
 Tools:
 * http://www.accessible-email.org/
