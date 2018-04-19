@@ -24,8 +24,13 @@ Articles:
 * https://axesslab.com/trends/
 * https://silktide.com/i-thought-title-text-improved-accessibility-i-was-wrong/
 * https://css-tricks.com/html-email-accessibility/
-* **https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/ [NEW]**
-* **https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67 [NEW]**
+* https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/
+* https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67
+* **https://axesslab.com/title-texts-suck/ [NEW]**
+* **https://axesslab.com/text-splitting/ [NEW]**
+* **https://axesslab.com/hand-tremors/ [NEW]**
+* **https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/ [NEW]**
+* **https://www.shopify.co.uk/partners/blog/inclusive-design [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
