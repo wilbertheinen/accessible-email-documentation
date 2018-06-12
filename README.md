@@ -26,11 +26,13 @@ Articles:
 * https://css-tricks.com/html-email-accessibility/
 * https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/
 * https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67
-* **https://axesslab.com/title-texts-suck/ [NEW]**
-* **https://axesslab.com/text-splitting/ [NEW]**
-* **https://axesslab.com/hand-tremors/ [NEW]**
-* **https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/ [NEW]**
-* **https://www.shopify.co.uk/partners/blog/inclusive-design [NEW]**
+* https://axesslab.com/title-texts-suck/
+* https://axesslab.com/text-splitting/
+* https://axesslab.com/hand-tremors/
+* https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/
+* https://www.shopify.co.uk/partners/blog/inclusive-design
+* **https://content.myemma.com/blog/why-does-email-accessibility-matter [NEW]**
+* **https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4 [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
