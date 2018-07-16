@@ -31,8 +31,10 @@ Articles:
 * https://axesslab.com/hand-tremors/
 * https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/
 * https://www.shopify.co.uk/partners/blog/inclusive-design
-* **https://content.myemma.com/blog/why-does-email-accessibility-matter [NEW]**
-* **https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4 [NEW]**
+* https://content.myemma.com/blog/why-does-email-accessibility-matter
+* https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4
+* **https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94 [NEW]**
+* **https://www.rodriguezcommaj.com/blog/what-wcag-21-means-for-email-marketers [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -53,6 +55,8 @@ Tools:
 * Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/
 * An ongoing project to try and curate beautiful color palettes that are a11y friendly - https://www.randoma11y.com/
 * Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/
+* **https://itunes.apple.com/app/contrast/id1254981365?mt=12&ign-mpt=uo%3D6 [NEW]**
+* **http://colororacle.org/ [NEW]**
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
