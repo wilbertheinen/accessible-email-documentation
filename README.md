@@ -67,7 +67,7 @@ Resources:
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
-* https://axesslab.com/
+* https://axesslab.com/ 
 * **https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html [NEW]**
 
 Books:
