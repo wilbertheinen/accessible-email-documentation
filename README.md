@@ -56,8 +56,8 @@ Tools:
 * Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/
 * An ongoing project to try and curate beautiful color palettes that are a11y friendly - https://www.randoma11y.com/
 * Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/
-* **https://itunes.apple.com/app/contrast/id1254981365?mt=12&ign-mpt=uo%3D6 [NEW]**
-* **http://colororacle.org/ [NEW]**
+* https://itunes.apple.com/app/contrast/id1254981365?mt=12&ign-mpt=uo%3D6
+* http://colororacle.org/
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -68,7 +68,7 @@ Resources:
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
 * https://axesslab.com/
-* ** https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html [NEW]**
+* **https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
@@ -77,4 +77,3 @@ Books:
 Webinars/Podcasts:
 * https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap
 * https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails
-
