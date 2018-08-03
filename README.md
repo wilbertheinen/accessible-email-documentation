@@ -68,6 +68,7 @@ Resources:
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
 * https://axesslab.com/
+* **https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
