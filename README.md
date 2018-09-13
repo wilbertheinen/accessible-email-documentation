@@ -35,7 +35,8 @@ Articles:
 * https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4
 * https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 * https://www.rodriguezcommaj.com/blog/what-wcag-21-means-for-email-marketers
-* **https://www.sparkpost.com/blog/email-accessibility/ [NEW]**
+* https://www.sparkpost.com/blog/email-accessibility/
+* **https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240 [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -68,7 +69,7 @@ Resources:
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
 * https://axesslab.com/ 
-* **https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html [NEW]**
+* https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
