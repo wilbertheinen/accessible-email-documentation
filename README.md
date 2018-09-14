@@ -59,6 +59,7 @@ Tools:
 * Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/
 * https://itunes.apple.com/app/contrast/id1254981365?mt=12&ign-mpt=uo%3D6
 * http://colororacle.org/
+* **http://accessible-colors.com/ [NEW]**
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
