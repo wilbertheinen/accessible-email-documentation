@@ -36,7 +36,7 @@ Articles:
 * https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 * https://www.rodriguezcommaj.com/blog/what-wcag-21-means-for-email-marketers
 * https://www.sparkpost.com/blog/email-accessibility/
-* **https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240 [NEW]**
+* https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
