@@ -60,6 +60,7 @@ Tools:
 * https://itunes.apple.com/app/contrast/id1254981365?mt=12&ign-mpt=uo%3D6
 * http://colororacle.org/
 * http://accessible-colors.com/
+* **Accessibility Checklist - https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html [NEW]**
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
