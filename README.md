@@ -37,6 +37,8 @@ Articles:
 * https://www.rodriguezcommaj.com/blog/what-wcag-21-means-for-email-marketers
 * https://www.sparkpost.com/blog/email-accessibility/
 * https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240
+* ** https://www.24a11y.com/2018/accessibility-and-inclusion-with-email/ [NEW]**
+* ** https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/ [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
