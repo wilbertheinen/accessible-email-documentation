@@ -63,7 +63,7 @@ Tools:
 * http://colororacle.org/
 * http://accessible-colors.com/
 * Accessibility Checklist - https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html
-* **Accessible Brand Colors - https://abc.useallfive.com/ [NEW]**
+* **Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette. - https://abc.useallfive.com/ [NEW]**
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
