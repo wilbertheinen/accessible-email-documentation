@@ -37,8 +37,12 @@ Articles:
 * https://www.rodriguezcommaj.com/blog/what-wcag-21-means-for-email-marketers
 * https://www.sparkpost.com/blog/email-accessibility/
 * https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240
-* ** https://www.24a11y.com/2018/accessibility-and-inclusion-with-email/ [NEW]**
-* ** https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/ [NEW]**
+* https://www.24a11y.com/2018/accessibility-and-inclusion-with-email/
+* https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/
+* **https://litmus.com/blog/7-simple-tricks-to-make-your-email-code-more-accessible [NEW]**
+* **https://optinmonster.com/why-ignoring-email-accessibility-is-hurting-your-business/ [NEW]**
+* **https://www.onlyinfluencers.com/email-marketing-blog-posts/best-practice-email-strategy/entry/the-difference-between-accessibility-and-inclusion-in-email-marketing [NEW]**
+* **https://explore.reallygoodemails.com/email-accessibility-looks-arent-everything-ad0b1f6af0a4 [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -48,6 +52,7 @@ Presentations:
 * Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 - https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO [VIDEO]
 * Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440 [SLIDES]
 * Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/
+* **Email Accessibility Resources - https://docs.google.com/document/d/1wKvh0cpzwwnU5JsN8EnHNW2_PlrknzBQkPPqXGiZRcI/edit [Google Doc] [NEW]**
 
 Tools:
 * http://www.accessible-email.org/
@@ -63,7 +68,7 @@ Tools:
 * http://colororacle.org/
 * http://accessible-colors.com/
 * Accessibility Checklist - https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html
-* **Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette. - https://abc.useallfive.com/ [NEW]**
+* Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette. - https://abc.useallfive.com/
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -76,6 +81,7 @@ Resources:
 * https://axesslab.com/ 
 * https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html
 * 24 days of digital accessibility gifts during the season of giving and sharing - https://www.24a11y.com/
+* **https://www.campaignmonitor.com/resources/guides/accessibility/ [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
