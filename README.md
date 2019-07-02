@@ -83,6 +83,7 @@ Resources:
 * https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html
 * 24 days of digital accessibility gifts during the season of giving and sharing - https://www.24a11y.com/
 * **https://www.campaignmonitor.com/resources/guides/accessibility/ [NEW]**
+* **https://www.emailonacid.com/resource/email-accessibility-infographic/ [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
@@ -91,3 +92,4 @@ Books:
 Webinars/Podcasts:
 * https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap
 * https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails
+* **https://www.emailonacid.com/resource/email-accessibility-net-atlantic/ [NEW]**
