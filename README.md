@@ -70,6 +70,9 @@ Tools:
 * http://accessible-colors.com/
 * Accessibility Checklist - https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html
 * Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette. - https://abc.useallfive.com/
+* **Email on Acid Accessibility Check - https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf [NEW]**
+* **Litmus Accessibility Check - https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus [NEW]**
+
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
