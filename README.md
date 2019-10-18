@@ -44,7 +44,9 @@ Articles:
 * https://optinmonster.com/why-ignoring-email-accessibility-is-hurting-your-business/
 * https://www.onlyinfluencers.com/email-marketing-blog-posts/best-practice-email-strategy/entry/the-difference-between-accessibility-and-inclusion-in-email-marketing
 * https://explore.reallygoodemails.com/email-accessibility-looks-arent-everything-ad0b1f6af0a4
-* **https://litmus.com/blog/accessibility-vs-inclusion-what-it-takes-to-create-more-inclusive-email-marketing-experiences [NEW]**
+* https://litmus.com/blog/accessibility-vs-inclusion-what-it-takes-to-create-more-inclusive-email-marketing-experiences
+* **http://www.emaildesignreview.com/email-industry-insight/accessibility-in-digital-marketing-4148/ [NEW]**
+* **https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/ [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -89,8 +91,9 @@ Resources:
 * 24 days of digital accessibility gifts during the season of giving and sharing - https://www.24a11y.com/
 * https://www.campaignmonitor.com/resources/guides/accessibility/
 * https://www.emailonacid.com/resource/email-accessibility-infographic/
-* **https://litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone [NEW]**
-* **https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/ [NEW]**
+* https://litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone
+* https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
+* **https://a11ysupport.io/ [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
@@ -100,5 +103,5 @@ Webinars/Podcasts:
 * https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap
 * https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails
 * https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
-* **https://litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important [NEW]**
-* **https://litmus.com/webinars/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps [NEW]**
+* https://litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important
+* https://litmus.com/webinars/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps
