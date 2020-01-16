@@ -45,8 +45,8 @@ Articles:
 * https://www.onlyinfluencers.com/email-marketing-blog-posts/best-practice-email-strategy/entry/the-difference-between-accessibility-and-inclusion-in-email-marketing
 * https://explore.reallygoodemails.com/email-accessibility-looks-arent-everything-ad0b1f6af0a4
 * https://litmus.com/blog/accessibility-vs-inclusion-what-it-takes-to-create-more-inclusive-email-marketing-experiences
-* **http://www.emaildesignreview.com/email-industry-insight/accessibility-in-digital-marketing-4148/ [NEW]**
-* **https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/ [NEW]**
+* http://www.emaildesignreview.com/email-industry-insight/accessibility-in-digital-marketing-4148/
+* https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -76,6 +76,7 @@ Tools:
 * Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette. - https://abc.useallfive.com/
 * Email on Acid Accessibility Check - https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf
 * Litmus Accessibility Check - https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus
+* **Leonardo: an open source contrast-based color generator - https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2 [NEW]**
 
 
 Resources:
@@ -93,7 +94,7 @@ Resources:
 * https://www.emailonacid.com/resource/email-accessibility-infographic/
 * https://litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone
 * https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
-* **https://a11ysupport.io/ [NEW]**
+* https://a11ysupport.io/
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
