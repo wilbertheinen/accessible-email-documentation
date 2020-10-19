@@ -59,8 +59,9 @@ Presentations:
 * Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/
 * Email Accessibility Resources - https://docs.google.com/document/d/1wKvh0cpzwwnU5JsN8EnHNW2_PlrknzBQkPPqXGiZRcI/edit [Google Doc]
 * Email Accessibility Tips from the Pros - https://litmus.com/resources/email-accessibility-tips-from-the-pros [VIDEO]
-* **Email for All by Paul Airy - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/email-for-all/ [VIDEO] [NEW]**
-* **Accessibility in Email by Patricia Blesa, Roland Pokornyik from Chamaileon - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/accessibility-in-email/ [VIDEO] [NEW]**
+* Email for All by Paul Airy - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/email-for-all/ [VIDEO]
+* Accessibility in Email by Patricia Blesa, Roland Pokornyik from Chamaileon - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/accessibility-in-email/ [VIDEO]
+* **Accessibility in AMP [VIDEO] [NEW]**
 
 Tools:
 * http://www.accessible-email.org/
@@ -80,6 +81,7 @@ Tools:
 * Email on Acid Accessibility Check - https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf
 * Litmus Accessibility Check - https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus
 * Leonardo: an open source contrast-based color generator - https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2
+* **a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails [NEW]**
 
 
 Resources:
@@ -98,6 +100,7 @@ Resources:
 * https://litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone
 * https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
 * https://a11ysupport.io/
+* **a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
