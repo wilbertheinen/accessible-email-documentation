@@ -61,7 +61,7 @@ Presentations:
 * Email Accessibility Tips from the Pros - https://litmus.com/resources/email-accessibility-tips-from-the-pros [VIDEO]
 * Email for All by Paul Airy - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/email-for-all/ [VIDEO]
 * Accessibility in Email by Patricia Blesa, Roland Pokornyik from Chamaileon - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/accessibility-in-email/ [VIDEO]
-* **Accessibility in AMP [VIDEO] [NEW]**
+* **Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO] [NEW]**
 
 Tools:
 * http://www.accessible-email.org/
