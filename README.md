@@ -48,6 +48,7 @@ Articles:
 * http://www.emaildesignreview.com/email-industry-insight/accessibility-in-digital-marketing-4148/
 * https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
 * **https://the-pastry-box-project.net/anne-gibson/2014-july-31 [NEW]**
+* **https://designmodo.com/email-accessibility/ [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
