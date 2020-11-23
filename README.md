@@ -47,7 +47,9 @@ Articles:
 * https://litmus.com/blog/accessibility-vs-inclusion-what-it-takes-to-create-more-inclusive-email-marketing-experiences
 * http://www.emaildesignreview.com/email-industry-insight/accessibility-in-digital-marketing-4148/
 * https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
-* **https://the-pastry-box-project.net/anne-gibson/2014-july-31 [NEW]**
+* https://the-pastry-box-project.net/anne-gibson/2014-july-31
+* **https://amarachiazubuike.com/a-beginners-guide-to-web-accessibility-ckelka23j00cd8cs10h24byf7 [NEW]**
+* **https://designmodo.com/email-accessibility/ [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -61,7 +63,8 @@ Presentations:
 * Email Accessibility Tips from the Pros - https://litmus.com/resources/email-accessibility-tips-from-the-pros [VIDEO]
 * Email for All by Paul Airy - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/email-for-all/ [VIDEO]
 * Accessibility in Email by Patricia Blesa, Roland Pokornyik from Chamaileon - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/accessibility-in-email/ [VIDEO]
-* **Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO] [NEW]**
+* Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO]
+* **Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach - https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach [VIDEO]**
 
 Tools:
 * http://www.accessible-email.org/
@@ -81,7 +84,7 @@ Tools:
 * Email on Acid Accessibility Check - https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf
 * Litmus Accessibility Check - https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus
 * Leonardo: an open source contrast-based color generator - https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2
-* **a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails [NEW]**
+* a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
 
 
 Resources:
@@ -100,7 +103,7 @@ Resources:
 * https://litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone
 * https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
 * https://a11ysupport.io/
-* **a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails [NEW]**
+* a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
