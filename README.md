@@ -65,6 +65,7 @@ Presentations:
 * Accessibility in Email by Patricia Blesa, Roland Pokornyik from Chamaileon - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/accessibility-in-email/ [VIDEO]
 * Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO]
 * **Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach - https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach [VIDEO]**
+* **https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible [NEW]**
 
 Tools:
 * http://www.accessible-email.org/
