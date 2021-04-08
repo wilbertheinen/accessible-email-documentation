@@ -96,6 +96,7 @@ Resources:
 * https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
 * https://a11ysupport.io/
 * a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
+* **A Designers Accessibility Checklist - https://www.actionrocket.co/email-design-review/designerchecklist [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
