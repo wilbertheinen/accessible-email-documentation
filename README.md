@@ -5,17 +5,12 @@ Articles:
 * https://www.campaignmonitor.com/resources/guides/accessibility/
 * https://litmus.com/blog/ultimate-guide-accessible-emails
 * https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017
-* https://blog.mailchimp.com/accessibility-in-email-marketing/
+* https://mailchimp.com/resources/accessibility-in-email-marketing/
 * http://kb.mailchimp.com/campaigns/previews-and-tests/accessibility-in-email-marketing
-* http://blog.rebelmail.com/accessibility-in-email/
-* http://blog.rebelmail.com/accessibility-in-email-part-ii/
-* http://eroi.com/ideas/10-tips-on-accessible-email/
-* https://savvyinbox.com/8-accessibility-challenges-in-email-design-dee9655f8f90#.a27ib6ckh
+* http://eroi.com/10-tips-on-accessible-email/
 * http://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters
 * https://www.frankwatching.com/archive/2017/02/02/4-aspecten-waarmee-je-jouw-e-mailnieuwsbrieven-toegankelijker-maakt/ [Dutch]
 * https://www.frankwatching.com/archive/2017/02/09/6-oplossingen-om-je-nieuwsbrief-nog-toegankelijker-te-maken/ [Dutch]
-* https://www.e-village.nl/blogitem/inclusive-design-in-email [Dutch]
-* https://www.e-village.com/blog/inclusive-design-accessibility-email/ [English]
 * https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
 * https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
 * https://uxmag.com/articles/we-re-just-temporarily-abled
@@ -35,7 +30,6 @@ Articles:
 * https://content.myemma.com/blog/why-does-email-accessibility-matter
 * https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4
 * https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
-* https://www.rodriguezcommaj.com/blog/what-wcag-21-means-for-email-marketers
 * https://www.sparkpost.com/blog/email-accessibility/
 * https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240
 * https://www.24a11y.com/2018/accessibility-and-inclusion-with-email/
@@ -61,8 +55,6 @@ Presentations:
 * Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/
 * Email Accessibility Resources - https://docs.google.com/document/d/1wKvh0cpzwwnU5JsN8EnHNW2_PlrknzBQkPPqXGiZRcI/edit [Google Doc]
 * Email Accessibility Tips from the Pros - https://litmus.com/resources/email-accessibility-tips-from-the-pros [VIDEO]
-* Email for All by Paul Airy - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/email-for-all/ [VIDEO]
-* Accessibility in Email by Patricia Blesa, Roland Pokornyik from Chamaileon - Inbox Expo 2020 Digital Edition - https://delegates.inboxexpo.com/accessibility-in-email/ [VIDEO]
 * Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO]
 * **Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach - https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach [VIDEO]**
 * **https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible [NEW]**
@@ -70,7 +62,6 @@ Presentations:
 Tools:
 * http://www.accessible-email.org/
 * http://webaim.org/resources/contrastchecker/
-* http://webanywhere.cs.washington.edu/wa.php
 * https://achecker.ca/checker/index.php
 * http://www.checkmycolours.com/
 * VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625
@@ -111,7 +102,7 @@ Books:
 * https://abookapart.com/products/accessibility-for-everyone
 
 Webinars/Podcasts:
-* https://www.emailonacid.com/blog/article/email-marketing/accessibility-in-email-webinar-recap
+* https://www.emailonacid.com/resource/accessibility-in-email/
 * https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails
 * https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
 * https://litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important
