@@ -42,8 +42,8 @@ Articles:
 * http://www.emaildesignreview.com/email-industry-insight/accessibility-in-digital-marketing-4148/
 * https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
 * https://the-pastry-box-project.net/anne-gibson/2014-july-31
-* **https://amarachiazubuike.com/a-beginners-guide-to-web-accessibility-ckelka23j00cd8cs10h24byf7 [NEW]**
-* **https://designmodo.com/email-accessibility/ [NEW]**
+* https://amarachiazubuike.com/a-beginners-guide-to-web-accessibility-ckelka23j00cd8cs10h24byf7
+* https://designmodo.com/email-accessibility/
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -56,8 +56,8 @@ Presentations:
 * Email Accessibility Resources - https://docs.google.com/document/d/1wKvh0cpzwwnU5JsN8EnHNW2_PlrknzBQkPPqXGiZRcI/edit [Google Doc]
 * Email Accessibility Tips from the Pros - https://litmus.com/resources/email-accessibility-tips-from-the-pros [VIDEO]
 * Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO]
-* **Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach - https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach [VIDEO]**
-* **https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible [NEW]**
+* Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach - https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach [VIDEO]
+* https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible
 
 Tools:
 * http://www.accessible-email.org/
@@ -96,7 +96,8 @@ Resources:
 * https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
 * https://a11ysupport.io/
 * a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
-* **A Designers Accessibility Checklist - https://www.actionrocket.co/email-design-review/designerchecklist [NEW]**
+* A Designers Accessibility Checklist - https://www.actionrocket.co/email-design-review/designerchecklist
+* **Email Design Review - Accessibility Posts - https://www.actionrocket.co/email-design-review/category/Accessibility [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
