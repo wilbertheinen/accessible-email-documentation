@@ -79,7 +79,7 @@ Tools:
 * Litmus Accessibility Check - https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus
 * Leonardo: an open source contrast-based color generator - https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2
 * a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
-* ** axe Accessibility Linter for VS Code - https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/ [NEW]**
+* **axe Accessibility Linter for VS Code - https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/ [NEW]**
 
 
 Resources:
