@@ -44,6 +44,8 @@ Articles:
 * https://the-pastry-box-project.net/anne-gibson/2014-july-31
 * https://amarachiazubuike.com/a-beginners-guide-to-web-accessibility-ckelka23j00cd8cs10h24byf7
 * https://designmodo.com/email-accessibility/
+* **https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/ [NEW]**
+* **https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c [NEW]**
 
 Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
