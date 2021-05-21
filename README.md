@@ -77,7 +77,7 @@ Tools:
 * [Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette](https://abc.useallfive.com/)
 * [Email on Acid Accessibility Check](https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf)
 * [Litmus Accessibility Check](https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus)
-* [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/)leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2
+* [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
 * [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
 * **[axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/) [NEW]**
 
