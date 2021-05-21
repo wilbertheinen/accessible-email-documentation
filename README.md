@@ -51,14 +51,14 @@ Presentations:
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
 * https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights
 * https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible
-* Exclusive Design – Vasilis van Gemert – btconfBER2017 - https://www.youtube.com/watch?v=T7pJmrxcesI [VIDEO]
-* Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 - https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO [VIDEO]
-* Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017 https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440 [SLIDES]
-* Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group https://www.inclusivedesign24.org/
-* Email Accessibility Resources - https://docs.google.com/document/d/1wKvh0cpzwwnU5JsN8EnHNW2_PlrknzBQkPPqXGiZRcI/edit [Google Doc]
-* Email Accessibility Tips from the Pros - https://litmus.com/resources/email-accessibility-tips-from-the-pros [VIDEO]
-* Accessibility in AMP - https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563 [VIDEO]
-* Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach - https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach [VIDEO]
+* [Exclusive Design – Vasilis van Gemert – btconfBER2017](https://www.youtube.com/watch?v=T7pJmrxcesI) [VIDEO]
+* [Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017](https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO) [VIDEO]
+* [Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017](https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440) [SLIDES]
+* [Inclusive Design 24 (#ID24) - A Free 24-Hour Online Community Event On Accessibility organized by The Paciello Group](https://www.inclusivedesign24.org/)
+* [Email Accessibility Resources](https://docs.google.com/document/d/1wKvh0cpzwwnU5JsN8EnHNW2_PlrknzBQkPPqXGiZRcI/edit) [Google Doc]
+* [Email Accessibility Tips from the Pros](https://litmus.com/resources/email-accessibility-tips-from-the-pros) [VIDEO]
+* [Accessibility in AMP](https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563) [VIDEO]
+* [Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach](https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach) [VIDEO]
 * https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible
 
 Tools:
@@ -66,41 +66,41 @@ Tools:
 * http://webaim.org/resources/contrastchecker/
 * https://achecker.ca/checker/index.php
 * http://www.checkmycolours.com/
-* VoiceOver Cheatsheet - https://twitter.com/mayabenari/status/822241555142426625
-* Text alternatives - a decision tree - http://4syllables.com.au/articles/text-alternatives-decision-tree/
-* An ongoing project to try and curate beautiful color palettes that are a11y friendly - https://www.randoma11y.com/
-* Funkify is a brand new plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities - http://www.funkify.org/
+* [VoiceOver Cheatsheet](https://twitter.com/mayabenari/status/822241555142426625)
+* [Text alternatives - a decision tree](http://4syllables.com.au/articles/text-alternatives-decision-tree/)
+* [An ongoing project to try and curate beautiful color palettes that are a11y friendly](https://www.randoma11y.com/)
+* [Funkify - Plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities](http://www.funkify.org/)
 * https://itunes.apple.com/app/contrast/id1254981365?mt=12&ign-mpt=uo%3D6
 * http://colororacle.org/
 * http://accessible-colors.com/
-* Accessibility Checklist - https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html
-* Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette. - https://abc.useallfive.com/
-* Email on Acid Accessibility Check - https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf
-* Litmus Accessibility Check - https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus
-* Leonardo: an open source contrast-based color generator - https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2
-* a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
-* **axe Accessibility Linter for VS Code - https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/ [NEW]**
+* [Accessibility Checklist](https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html)
+* [Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette](https://abc.useallfive.com/)
+* [Email on Acid Accessibility Check](https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf)
+* [Litmus Accessibility Check](https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus)
+* [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/)leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2
+* [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
+* **[axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/) [NEW]**
 
 
 Resources:
 * https://www.microsoft.com/en-us/Design/inclusive
 * https://www.smashingmagazine.com/tag/accessibility/
 * https://axesslab.com/accessibility-according-to-pwd/
-* Tips from Hugo Giraudel - https://twitter.com/i/moments/877084869309980672
+* [Tips from Hugo Giraudel](https://twitter.com/i/moments/877084869309980672)
 * https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * http://a11yweekly.com/
 * https://axesslab.com/ 
 * https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html
-* 24 days of digital accessibility gifts during the season of giving and sharing - https://www.24a11y.com/
+* [24 days of digital accessibility gifts during the season of giving and sharing](https://www.24a11y.com/)
 * https://www.campaignmonitor.com/resources/guides/accessibility/
 * https://www.emailonacid.com/resource/email-accessibility-infographic/
 * https://litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone
 * https://www.emailonacid.com/blog/article/industry-news/accessibility-standards-in-email-marketing/
 * https://a11ysupport.io/
-* a11yresources - A growing list of accessibility tools and resources - https://a11yresources.webflow.io/category/emails
-* A Designers Accessibility Checklist - https://www.actionrocket.co/email-design-review/designerchecklist
-* **Email Design Review - Accessibility Posts - https://www.actionrocket.co/email-design-review/category/Accessibility [NEW]**
+* [a11yresources - A growing list of accessibility tools and resource](https://a11yresources.webflow.io/category/emails)
+* [A Designers Accessibility Checklist](https://www.actionrocket.co/email-design-review/designerchecklist)
+* **[Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility) [NEW]**
 
 Books:
 * https://www.smashingmagazine.com/inclusive-design-patterns/
