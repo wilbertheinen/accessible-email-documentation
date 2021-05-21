@@ -1,7 +1,7 @@
 # Accessible Email
 **A list of great articles, tools, presentations and resources about accessibility in general and specifically for email**
 
-Articles:
+## Articles
 * https://www.campaignmonitor.com/resources/guides/accessibility/
 * https://litmus.com/blog/ultimate-guide-accessible-emails
 * https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017
@@ -47,7 +47,7 @@ Articles:
 * **https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/ [NEW]**
 * **https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c [NEW]**
 
-Presentations:
+## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
 * https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights
 * https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible
@@ -61,7 +61,7 @@ Presentations:
 * [Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach](https://blogs.oracle.com/marketingcloud/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach) [VIDEO]
 * https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible
 
-Tools:
+## Tools
 * http://www.accessible-email.org/
 * http://webaim.org/resources/contrastchecker/
 * https://achecker.ca/checker/index.php
@@ -81,8 +81,7 @@ Tools:
 * [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
 * **[axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/) [NEW]**
 
-
-Resources:
+## Resources
 * https://www.microsoft.com/en-us/Design/inclusive
 * https://www.smashingmagazine.com/tag/accessibility/
 * https://axesslab.com/accessibility-according-to-pwd/
@@ -102,11 +101,11 @@ Resources:
 * [A Designers Accessibility Checklist](https://www.actionrocket.co/email-design-review/designerchecklist)
 * **[Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility) [NEW]**
 
-Books:
+## Books
 * https://www.smashingmagazine.com/inclusive-design-patterns/
 * https://abookapart.com/products/accessibility-for-everyone
 
-Webinars/Podcasts:
+## Webinars/Podcasts
 * https://www.emailonacid.com/resource/accessibility-in-email/
 * https://litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails
 * https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
