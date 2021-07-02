@@ -44,8 +44,8 @@
 * https://the-pastry-box-project.net/anne-gibson/2014-july-31
 * https://amarachiazubuike.com/a-beginners-guide-to-web-accessibility-ckelka23j00cd8cs10h24byf7
 * https://designmodo.com/email-accessibility/
-* **https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/ [NEW]**
-* **https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c [NEW]**
+* https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/
+* https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -79,7 +79,8 @@
 * [Litmus Accessibility Check](https://litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus)
 * [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
 * [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
-* **[axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/) [NEW]**
+* [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
+* **[A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/) [NEW]**
 
 ## Resources
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -99,7 +100,8 @@
 * https://a11ysupport.io/
 * [a11yresources - A growing list of accessibility tools and resource](https://a11yresources.webflow.io/category/emails)
 * [A Designers Accessibility Checklist](https://www.actionrocket.co/email-design-review/designerchecklist)
-* **[Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility) [NEW]**
+* [Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility)
+* **[Screen Reader User Survey #9 Results](https://webaim.org/projects/screenreadersurvey9/) [NEW]**
 
 ## Books
 * https://www.smashingmagazine.com/inclusive-design-patterns/
