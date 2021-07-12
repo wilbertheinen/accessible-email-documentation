@@ -80,7 +80,7 @@
 * [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
 * [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
 * [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
-* **[A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/) [NEW]**
+* [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 
 ## Resources
 * https://www.microsoft.com/en-us/Design/inclusive
@@ -101,7 +101,12 @@
 * [a11yresources - A growing list of accessibility tools and resource](https://a11yresources.webflow.io/category/emails)
 * [A Designers Accessibility Checklist](https://www.actionrocket.co/email-design-review/designerchecklist)
 * [Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility)
-* **[Screen Reader User Survey #9 Results](https://webaim.org/projects/screenreadersurvey9/) [NEW]**
+* [Screen Reader User Survey #9 Results](https://webaim.org/projects/screenreadersurvey9/)
+* **[ARIA in HTML](https://www.w3.org/TR/html-aria/) NEW**
+* **[Episode 1 - Introduction to email accessibility](https://trailhead.salesforce.com/live/videos/a2r3k000001vD99/episode-1-introduction-to-email-accessibility/) NEW**
+* **[Episode 2 - Creating accessible email content](https://trailhead.salesforce.com/live/videos/a2r3k000001vD1B/episode-2-creating-accessible-email-content/) NEW**
+* **[Episode 3 - Coding accessible email campaigns](https://trailhead.salesforce.com/live/videos/a2r3k000001vD8k/episode-3-coding-accessible-email-campaigns/) NEW**
+* **[Episode 4 - Email accessibility testing and tools](https://trailhead.salesforce.com/live/videos/a2r3k000001vD6F/episode-4-email-accessibility-testing-and-tools) NEW**
 
 ## Books
 * https://www.smashingmagazine.com/inclusive-design-patterns/
