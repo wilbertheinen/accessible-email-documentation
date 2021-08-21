@@ -88,7 +88,7 @@
 * https://bitsofco.de/the-accessibility-cheatsheet/
 * https://a11yweekly.com/
 * https://axesslab.com/ 
-* https://resources.emailmonks.com/infographics/emails-accessibility-best-practices.html
+* https://email.uplers.com/infographics/emails-accessibility-best-practices/
 * [24 days of digital accessibility gifts during the season of giving and sharing](https://www.24a11y.com/)
 * https://www.campaignmonitor.com/resources/guides/accessibility/
 * https://www.emailonacid.com/resource/email-accessibility-infographic/
