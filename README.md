@@ -46,6 +46,11 @@
 * https://designmodo.com/email-accessibility/
 * https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/
 * https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c
+* **[The effect of CSS on screen readers](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers) NEW**
+* **[Writing great alt text: Emotion matters](https://jakearchibald.com/2021/great-alt-text/) NEW**
+* **[Writing alternative text that matters](https://www.a11ywithlindsey.com/blog/writing-alternative-text-matters) NEW**
+* **[Some questions on accessibility in email — answered](https://paul-airy.medium.com/some-questions-on-accessibility-in-email-answered-7e231f375fd3) NEW**
+* **[How to Code Accessible Emails with Semantic HTML and ARIA](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -78,6 +83,7 @@
 * [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
 * [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 * [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
+* **[Check Your WCAG Compliance](https://www.a11yproject.com/checklist/) NEW**
 
 ## Resources
 * https://www.microsoft.com/design
@@ -99,11 +105,11 @@
 * [A Designers Accessibility Checklist](https://www.actionrocket.co/email-design-review/designerchecklist)
 * [Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility)
 * [Screen Reader User Survey #9 Results](https://webaim.org/projects/screenreadersurvey9/)
-* **[ARIA in HTML](https://www.w3.org/TR/html-aria/) NEW**
-* **[Episode 1 - Introduction to email accessibility](https://trailhead.salesforce.com/live/videos/a2r3k000001vD99/episode-1-introduction-to-email-accessibility/) NEW**
-* **[Episode 2 - Creating accessible email content](https://trailhead.salesforce.com/live/videos/a2r3k000001vD1B/episode-2-creating-accessible-email-content/) NEW**
-* **[Episode 3 - Coding accessible email campaigns](https://trailhead.salesforce.com/live/videos/a2r3k000001vD8k/episode-3-coding-accessible-email-campaigns/) NEW**
-* **[Episode 4 - Email accessibility testing and tools](https://trailhead.salesforce.com/live/videos/a2r3k000001vD6F/episode-4-email-accessibility-testing-and-tools) NEW**
+* [ARIA in HTML](https://www.w3.org/TR/html-aria/)
+* [Episode 1 - Introduction to email accessibility](https://trailhead.salesforce.com/live/videos/a2r3k000001vD99/episode-1-introduction-to-email-accessibility/)
+* [Episode 2 - Creating accessible email content](https://trailhead.salesforce.com/live/videos/a2r3k000001vD1B/episode-2-creating-accessible-email-content/)
+* [Episode 3 - Coding accessible email campaigns](https://trailhead.salesforce.com/live/videos/a2r3k000001vD8k/episode-3-coding-accessible-email-campaigns/)
+* [Episode 4 - Email accessibility testing and tools](https://trailhead.salesforce.com/live/videos/a2r3k000001vD6F/episode-4-email-accessibility-testing-and-tools)
 
 ## Books
 * https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
