@@ -46,11 +46,11 @@
 * https://designmodo.com/email-accessibility/
 * https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/
 * https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c
-* [The effect of CSS on screen readers](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers) NEW
-* [Writing great alt text: Emotion matters](https://jakearchibald.com/2021/great-alt-text/) NEW
-* [Writing alternative text that matters](https://www.a11ywithlindsey.com/blog/writing-alternative-text-matters) NEW
-* [Some questions on accessibility in email — answered](https://paul-airy.medium.com/some-questions-on-accessibility-in-email-answered-7e231f375fd3) NEW
-* [How to Code Accessible Emails with Semantic HTML and ARIA](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/) NEW
+* [The effect of CSS on screen readers](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers)
+* [Writing great alt text: Emotion matters](https://jakearchibald.com/2021/great-alt-text/)
+* [Writing alternative text that matters](https://www.a11ywithlindsey.com/blog/writing-alternative-text-matters)
+* [Some questions on accessibility in email — answered](https://paul-airy.medium.com/some-questions-on-accessibility-in-email-answered-7e231f375fd3)
+* [How to Code Accessible Emails with Semantic HTML and ARIA](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/)
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -83,7 +83,7 @@
 * [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
 * [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 * [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
-* [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/) NEW
+* [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
 
 ## Resources
 * https://www.microsoft.com/design
