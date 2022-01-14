@@ -51,6 +51,10 @@
 * [Writing alternative text that matters](https://www.a11ywithlindsey.com/blog/writing-alternative-text-matters)
 * [Some questions on accessibility in email — answered](https://paul-airy.medium.com/some-questions-on-accessibility-in-email-answered-7e231f375fd3)
 * [How to Code Accessible Emails with Semantic HTML and ARIA](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/)
+* **[Alternative Text](https://webaim.org/techniques/alttext/) NEW**
+* **[Using rem and em units in email](https://www.goodemailcode.com/email-accessibility/rem-and-em) NEW**
+* **[Should you use an h1 in email code?](https://www.goodemailcode.com/email-accessibility/should-you-use-an-h1-in-email-code) NEW**
+* **[ARIA landmarks in email](https://www.goodemailcode.com/email-accessibility/aria-landmarks-in-html-email) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -110,7 +114,6 @@
 * [Episode 2 - Creating accessible email content](https://trailhead.salesforce.com/live/videos/a2r3k000001vD1B/episode-2-creating-accessible-email-content/)
 * [Episode 3 - Coding accessible email campaigns](https://trailhead.salesforce.com/live/videos/a2r3k000001vD8k/episode-3-coding-accessible-email-campaigns/)
 * [Episode 4 - Email accessibility testing and tools](https://trailhead.salesforce.com/live/videos/a2r3k000001vD6F/episode-4-email-accessibility-testing-and-tools)
-* **[Alternative Text](https://webaim.org/techniques/alttext/) NEW**
 
 ## Books
 * https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
