@@ -7,7 +7,6 @@
 * https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017/
 * https://mailchimp.com/resources/accessibility-in-email-marketing/
 * http://kb.mailchimp.com/campaigns/previews-and-tests/accessibility-in-email-marketing
-* http://eroi.com/10-tips-on-accessible-email/
 * https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters
 * https://www.frankwatching.com/archive/2017/02/02/4-aspecten-waarmee-je-jouw-e-mailnieuwsbrieven-toegankelijker-maakt/ [Dutch]
 * https://www.frankwatching.com/archive/2017/02/09/6-oplossingen-om-je-nieuwsbrief-nog-toegankelijker-te-maken/ [Dutch]
@@ -42,7 +41,6 @@
 * http://www.emaildesignreview.com/uncategorized/accessibility-in-digital-marketing-4148/
 * https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
 * https://the-pastry-box-project.net/anne-gibson/2014-july-31
-* https://amarachiazubuike.com/a-beginners-guide-to-web-accessibility-ckelka23j00cd8cs10h24byf7
 * https://designmodo.com/email-accessibility/
 * https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/
 * https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c
