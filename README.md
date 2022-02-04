@@ -49,10 +49,13 @@
 * [Writing alternative text that matters](https://www.a11ywithlindsey.com/blog/writing-alternative-text-matters)
 * [Some questions on accessibility in email — answered](https://paul-airy.medium.com/some-questions-on-accessibility-in-email-answered-7e231f375fd3)
 * [How to Code Accessible Emails with Semantic HTML and ARIA](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/)
-* **[Alternative Text](https://webaim.org/techniques/alttext/) NEW**
-* **[Using rem and em units in email](https://www.goodemailcode.com/email-accessibility/rem-and-em) NEW**
-* **[Should you use an h1 in email code?](https://www.goodemailcode.com/email-accessibility/should-you-use-an-h1-in-email-code) NEW**
-* **[ARIA landmarks in email](https://www.goodemailcode.com/email-accessibility/aria-landmarks-in-html-email) NEW**
+* [Alternative Text](https://webaim.org/techniques/alttext/)
+* [Using rem and em units in email](https://www.goodemailcode.com/email-accessibility/rem-and-em)
+* [Should you use an h1 in email code?](https://www.goodemailcode.com/email-accessibility/should-you-use-an-h1-in-email-code)
+* [ARIA landmarks in email](https://www.goodemailcode.com/email-accessibility/aria-landmarks-in-html-email)
+* **[Text In Images](https://www.goodemailcode.com/email-accessibility/text-in-images) NEW**
+* **[How to Conform to WCAG (Web Content Accessibility Guidelines) in Email](https://webdesign.tutsplus.com/tutorials/apply-web-content-accessibility-guidelines-to-email--cms-39050) NEW**
+* **[No Accessibility Without Disabilities](https://yatil.net/blog/no-accessibility-without-disabilities) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -86,6 +89,7 @@
 * [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 * [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 * [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
+* **[Accessibility tools for everyone](https://parcel.io/blog/accessibility-tools) NEW**
 
 ## Resources
 * https://www.microsoft.com/design
@@ -123,3 +127,4 @@
 * https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
 * https://www.litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important/
 * https://www.litmus.com/resources/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps/
+* **[Panel: The Import of Accessibility in Email Design - Paul Airy, Megan Boshuyzen, Ornella Gallo](https://vimeo.com/661643656/ebea613c4d) NEW**
