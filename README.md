@@ -90,6 +90,7 @@
 * [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 * [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
 * **[Accessibility tools for everyone](https://parcel.io/blog/accessibility-tools) NEW**
+* **[Parcel - The Email Coding Platform](https://parcel.io/) NEW**
 
 ## Resources
 * https://www.microsoft.com/design
