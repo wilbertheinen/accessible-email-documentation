@@ -53,9 +53,10 @@
 * [Using rem and em units in email](https://www.goodemailcode.com/email-accessibility/rem-and-em)
 * [Should you use an h1 in email code?](https://www.goodemailcode.com/email-accessibility/should-you-use-an-h1-in-email-code)
 * [ARIA landmarks in email](https://www.goodemailcode.com/email-accessibility/aria-landmarks-in-html-email)
-* **[Text In Images](https://www.goodemailcode.com/email-accessibility/text-in-images) NEW**
-* **[How to Conform to WCAG (Web Content Accessibility Guidelines) in Email](https://webdesign.tutsplus.com/tutorials/apply-web-content-accessibility-guidelines-to-email--cms-39050) NEW**
-* **[No Accessibility Without Disabilities](https://yatil.net/blog/no-accessibility-without-disabilities) NEW**
+* [Text In Images](https://www.goodemailcode.com/email-accessibility/text-in-images)
+* [How to Conform to WCAG (Web Content Accessibility Guidelines) in Email](https://webdesign.tutsplus.com/tutorials/apply-web-content-accessibility-guidelines-to-email--cms-39050)
+* [No Accessibility Without Disabilities](https://yatil.net/blog/no-accessibility-without-disabilities)
+* **[Everything I know about alt text](https://www.maxkohler.com/posts/everything-i-know-about-alt-text) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -89,8 +90,9 @@
 * [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 * [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 * [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
-* **[Accessibility tools for everyone](https://parcel.io/blog/accessibility-tools) NEW**
-* **[Parcel - The Email Coding Platform](https://parcel.io/) NEW**
+* [Accessibility tools for everyone](https://parcel.io/blog/accessibility-tools)
+* [Parcel - The Email Coding Platform](https://parcel.io/)
+* **[Accessibility testers you can trust](https://makeitfable.com/testers/) NEW**
 
 ## Resources
 * https://www.microsoft.com/design
@@ -117,6 +119,8 @@
 * [Episode 2 - Creating accessible email content](https://trailhead.salesforce.com/live/videos/a2r3k000001vD1B/episode-2-creating-accessible-email-content/)
 * [Episode 3 - Coding accessible email campaigns](https://trailhead.salesforce.com/live/videos/a2r3k000001vD8k/episode-3-coding-accessible-email-campaigns/)
 * [Episode 4 - Email accessibility testing and tools](https://trailhead.salesforce.com/live/videos/a2r3k000001vD6F/episode-4-email-accessibility-testing-and-tools)
+* **[Learning web accessibility made easy](https://a11yphant.com/) NEW**
+* **[The Book on Accessibility](https://www.thebookonaccessibility.com/) NEW**
 
 ## Books
 * https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
@@ -128,4 +132,5 @@
 * https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
 * https://www.litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important/
 * https://www.litmus.com/resources/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps/
-* **[Panel: The Import of Accessibility in Email Design - Paul Airy, Megan Boshuyzen, Ornella Gallo](https://vimeo.com/661643656/ebea613c4d) NEW**
+* [Panel: The Import of Accessibility in Email Design - Paul Airy, Megan Boshuyzen, Ornella Gallo](https://vimeo.com/661643656/ebea613c4d)
+* **[#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/) NEW**
