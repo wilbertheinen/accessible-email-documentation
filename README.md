@@ -94,7 +94,7 @@
 * [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
 * [Accessibility tools for everyone](https://parcel.io/blog/accessibility-tools)
 * [Parcel - The Email Coding Platform](https://parcel.io/)
-* **[Accessibility testers you can trust](https://makeitfable.com/testers/) NEW**
+* [Accessibility testers you can trust](https://makeitfable.com/testers/)
 
 ## Resources
 * https://www.microsoft.com/design
