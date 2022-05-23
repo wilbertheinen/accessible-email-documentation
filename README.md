@@ -56,7 +56,9 @@
 * [Text In Images](https://www.goodemailcode.com/email-accessibility/text-in-images)
 * [How to Conform to WCAG (Web Content Accessibility Guidelines) in Email](https://webdesign.tutsplus.com/tutorials/apply-web-content-accessibility-guidelines-to-email--cms-39050)
 * [No Accessibility Without Disabilities](https://yatil.net/blog/no-accessibility-without-disabilities)
-* **[Everything I know about alt text](https://www.maxkohler.com/posts/everything-i-know-about-alt-text) NEW**
+* [Everything I know about alt text](https://www.maxkohler.com/posts/everything-i-know-about-alt-text)
+* **[First rule of ARIA – do not use ARIA – and why it is so important](https://cerovac.com/a11y/2020/09/first-rule-of-aria-do-not-use-aria-and-why-it-is-so-important/) NEW**
+* **[The business case for accessibility]([https://cerovac.com/a11y/2020/09/first-rule-of-aria-do-not-use-aria-and-why-it-is-so-important/](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -119,8 +121,9 @@
 * [Episode 2 - Creating accessible email content](https://trailhead.salesforce.com/live/videos/a2r3k000001vD1B/episode-2-creating-accessible-email-content/)
 * [Episode 3 - Coding accessible email campaigns](https://trailhead.salesforce.com/live/videos/a2r3k000001vD8k/episode-3-coding-accessible-email-campaigns/)
 * [Episode 4 - Email accessibility testing and tools](https://trailhead.salesforce.com/live/videos/a2r3k000001vD6F/episode-4-email-accessibility-testing-and-tools)
-* **[Learning web accessibility made easy](https://a11yphant.com/) NEW**
-* **[The Book on Accessibility](https://www.thebookonaccessibility.com/) NEW**
+* [Learning web accessibility made easy](https://a11yphant.com/)
+* [The Book on Accessibility](https://www.thebookonaccessibility.com/)
+* **[WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand) NEW**
 
 ## Books
 * https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
@@ -133,4 +136,5 @@
 * https://www.litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important/
 * https://www.litmus.com/resources/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps/
 * [Panel: The Import of Accessibility in Email Design - Paul Airy, Megan Boshuyzen, Ornella Gallo](https://vimeo.com/661643656/ebea613c4d)
-* **[#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/) NEW**
+* [#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/)
+* **[How to Make Your Emails More Accessible](https://www.sparkpost.com/send-it-school/email-accessibility/?vid=display) NEW**
