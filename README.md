@@ -58,7 +58,7 @@
 * [No Accessibility Without Disabilities](https://yatil.net/blog/no-accessibility-without-disabilities)
 * [Everything I know about alt text](https://www.maxkohler.com/posts/everything-i-know-about-alt-text)
 * **[First rule of ARIA – do not use ARIA – and why it is so important](https://cerovac.com/a11y/2020/09/first-rule-of-aria-do-not-use-aria-and-why-it-is-so-important/) NEW**
-* **[The business case for accessibility]([https://cerovac.com/a11y/2020/09/first-rule-of-aria-do-not-use-aria-and-why-it-is-so-important/](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/) NEW**
+* **[The business case for accessibility](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
