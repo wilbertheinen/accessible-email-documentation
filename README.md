@@ -125,6 +125,10 @@
 * [The Book on Accessibility](https://www.thebookonaccessibility.com/)
 * [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
 
+## Guides
+* **[Accessibility for teams](https://accessibility-for-teams.com/) NEW**
+* **[An interactive guide to color & contrast](https://colorandcontrast.com/#/) NEW**
+
 ## Books
 * https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
 * https://abookapart.com/products/accessibility-for-everyone
@@ -140,4 +144,4 @@
 * [How to Make Your Emails More Accessible](https://www.sparkpost.com/send-it-school/email-accessibility/?vid=display)
 
 ## Courses
-* **[Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/) NEW**
+* [Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/)
