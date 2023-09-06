@@ -59,6 +59,11 @@
 * [Everything I know about alt text](https://www.maxkohler.com/posts/everything-i-know-about-alt-text)
 * [First rule of ARIA – do not use ARIA – and why it is so important](https://cerovac.com/a11y/2020/09/first-rule-of-aria-do-not-use-aria-and-why-it-is-so-important/)
 * [The business case for accessibility](https://tetralogical.com/blog/2022/04/05/business-case-for-accessibility/)
+* **[The Litmus Team’s Favorite Emails of April 2023](https://www.litmus.com/blog/favorite-emails-april-2023) NEW**
+* **[Why font-size must NEVER be in pixels](https://fedmentor.dev/posts/font-size-px/) NEW**
+* **[Notes from the Dev: Email Accessibility Insights for Developers](https://www.emailonacid.com/blog/article/email-development/accessibility-insights-developers/) NEW**
+* **[European Accessibility Act: What you need to know](https://www.craigabbott.co.uk/blog/european-accessibility-act-what-you-need-to-know/) NEW**
+* **[Friendly Reminder: Write Good Alt Text](https://www.a11y.email/friendly-reminder-write-good-alt-text/) NEW**
 
 ## Presentations
 * https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
@@ -95,6 +100,7 @@
 * [Accessibility tools for everyone](https://parcel.io/blog/accessibility-tools)
 * [Parcel - The Email Coding Platform](https://parcel.io/)
 * [Accessibility testers you can trust](https://makeitfable.com/testers/)
+* **[Email Reader View](https://emailmarkup.org/en/blog/2023/email-reader-view/) NEW**
 
 ## Resources
 * https://www.microsoft.com/design
@@ -124,17 +130,20 @@
 * [Learning web accessibility made easy](https://a11yphant.com/)
 * [The Book on Accessibility](https://www.thebookonaccessibility.com/)
 * [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
+* **[a11y.email/resources-links](https://www.a11y.email/resources-links/) NEW**
 
 ## Guides
-* **[Accessibility for teams](https://accessibility-for-teams.com/) NEW**
-* **[An interactive guide to color & contrast](https://colorandcontrast.com/#/) NEW**
+* [Accessibility for teams](https://accessibility-for-teams.com/)
+* [An interactive guide to color & contrast](https://colorandcontrast.com/#/)
+* **[Writing for email: A Copywriter's Accessibility Guide](https://www.actionrocket.co/email-design-review/writing-for-email-a-copywriters-accessibility-guide) NEW**
+* **[Guide to testing emails with a screen reader](https://parcel.io/guides/testing-emails-with-a-screen-reader) NEW**
 
 ## Books
 * https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
 * https://abookapart.com/products/accessibility-for-everyone
 
 ## Webinars/Podcasts
-* https://www.emailonacid.com/resource/accessibility-in-email/
+* [](https://www.emailonacid.com/resource/accessibility-in-email/)
 * https://www.litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails/
 * https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
 * https://www.litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important/
@@ -142,6 +151,10 @@
 * [Panel: The Import of Accessibility in Email Design - Paul Airy, Megan Boshuyzen, Ornella Gallo](https://vimeo.com/661643656/ebea613c4d)
 * [#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/)
 * [How to Make Your Emails More Accessible](https://www.sparkpost.com/send-it-school/email-accessibility/?vid=display)
+* **[Notes from the Dev: Email Accessibility Insights for Developers](https://www.emailonacid.com/blog/article/email-development/accessibility-insights-developers/) NEW**
 
 ## Courses
 * [Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/)
+
+## Reports
+* **[Accessibility Report 2023](https://emailmarkup.org/en/reports/accessibility/2023/) NEW**
