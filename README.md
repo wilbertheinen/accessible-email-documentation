@@ -72,7 +72,7 @@
 * [Email Accessibility Tips from the Pros](https://litmus.com/resources/email-accessibility-tips-from-the-pros) [VIDEO]
 * [Accessibility in AMP](https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563) [VIDEO]
 * [Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach](https://blogs.oracle.com/marketingcloud/post/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach) [VIDEO]
-* [How to Make Ancient HTML Accessible]h(ttps://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible)
+* [How to Make Ancient HTML Accessible](https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible)
 
 ## Tools
 * [accessible-email.org](https://www.accessible-email.org/)
