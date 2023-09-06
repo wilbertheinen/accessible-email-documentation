@@ -139,15 +139,15 @@
 * **[Guide to testing emails with a screen reader](https://parcel.io/guides/testing-emails-with-a-screen-reader) NEW**
 
 ## Books
-* https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/
-* https://abookapart.com/products/accessibility-for-everyone
+* [Inclusive design patterns](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/)
+* [Accessibility for everyone](https://abookapart.com/products/accessibility-for-everyone)
 
 ## Webinars/Podcasts
-* [](https://www.emailonacid.com/resource/accessibility-in-email/)
-* https://www.litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails/
-* https://www.emailonacid.com/resource/email-accessibility-net-atlantic/
-* https://www.litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important/
-* https://www.litmus.com/resources/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps/
+* [Accessibility in email](https://www.emailonacid.com/resource/accessibility-in-email/)
+* [5 tips for making more accessible emails](https://www.litmus.com/blog/email-design-podcast-73-5-tips-for-making-more-accessible-emails/)
+* [Email accessibility with Net Atlantic](https://www.emailonacid.com/resource/email-accessibility-net-atlantic/)
+* [Delivering Episode 7: Why is digital accessibility so important](https://www.litmus.com/blog/delivering-episode-7-why-is-digital-accessibility-so-important/)
+* [Email accessibility: How to make email for everyone in 3 easy steps](https://www.litmus.com/resources/email-accessibility-how-to-make-email-for-everyone-in-3-easy-steps/)
 * [Panel: The Import of Accessibility in Email Design - Paul Airy, Megan Boshuyzen, Ornella Gallo](https://vimeo.com/661643656/ebea613c4d)
 * [#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/)
 * [How to Make Your Emails More Accessible](https://www.sparkpost.com/send-it-school/email-accessibility/?vid=display)
