@@ -2,48 +2,43 @@
 **A list of great articles, tools, presentations and resources about accessibility in general and specifically for email**
 
 ## Articles
-* https://www.campaignmonitor.com/resources/guides/accessibility/
-* https://litmus.com/blog/ultimate-guide-accessible-emails
-* https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017/
-* https://mailchimp.com/resources/accessibility-in-email-marketing/
-* http://kb.mailchimp.com/campaigns/previews-and-tests/accessibility-in-email-marketing
-* https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters
-* https://www.frankwatching.com/archive/2017/02/02/4-aspecten-waarmee-je-jouw-e-mailnieuwsbrieven-toegankelijker-maakt/ [Dutch]
-* https://www.frankwatching.com/archive/2017/02/09/6-oplossingen-om-je-nieuwsbrief-nog-toegankelijker-te-maken/ [Dutch]
-* https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen [Dutch]
-* https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email
-* https://uxmag.com/articles/we-re-just-temporarily-abled
-* https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/
-* https://axesslab.com/accessibility-according-to-pwd/
-* https://axesslab.com/alt-texts/
-* https://axesslab.com/trends/
-* https://silktide.com/blog/accessibility/i-thought-title-text-improved-accessibility-i-was-wrong/
-* https://css-tricks.com/html-email-accessibility/
-* https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/
-* https://www.hteumeuleu.com/2018/email-accessibility-in-action/
-* https://axesslab.com/title-texts-suck/
-* https://axesslab.com/text-splitting/
-* https://axesslab.com/hand-tremors/
-* https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/
-* https://www.shopify.co.uk/partners/blog/inclusive-design
-* https://content.myemma.com/blog/why-does-email-accessibility-matter
-* https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4
-* https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
-* https://www.sparkpost.com/blog/email-accessibility/
-* https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240
-* https://www.24a11y.com/2018/accessibility-and-inclusion-with-email/
-* https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/
-* https://www.litmus.com/blog/7-simple-tricks-to-make-your-email-code-more-accessible/
-* https://optinmonster.com/why-ignoring-email-accessibility-is-hurting-your-business/
-* https://www.onlyinfluencers.com/email-marketing-blog-posts/best-practice-email-strategy/entry/the-difference-between-accessibility-and-inclusion-in-email-marketing
-* https://explore.reallygoodemails.com/email-accessibility-looks-arent-everything-ad0b1f6af0a4
-* https://www.litmus.com/blog/accessibility-vs-inclusion-what-it-takes-to-create-more-inclusive-email-marketing-experiences/
-* http://www.emaildesignreview.com/uncategorized/accessibility-in-digital-marketing-4148/
-* https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/
-* https://the-pastry-box-project.net/anne-gibson/2014-july-31
-* https://designmodo.com/email-accessibility/
-* https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/
-* https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c
+* [Email Accessibility: A Complete Guide for Marketers, Designers, and Developers](https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017/)
+* [Accessibility in Email Marketing](https://mailchimp.com/resources/accessibility-in-email-marketing/)
+* [Accessibility in Email Marketing](http://kb.mailchimp.com/campaigns/previews-and-tests/accessibility-in-email-marketing)
+* [How to design accessible email newsletters](https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-email-newsletters)
+* [4 aspecten waarmee je jouw e-mailnieuwsbrieven toegankelijker maakt](https://www.frankwatching.com/archive/2017/02/02/4-aspecten-waarmee-je-jouw-e-mailnieuwsbrieven-toegankelijker-maakt/) [Dutch]
+* [6 oplossingen om je nieuwsbrief nóg toegankelijker te maken](https://www.frankwatching.com/archive/2017/02/09/6-oplossingen-om-je-nieuwsbrief-nog-toegankelijker-te-maken/) [Dutch]
+* [Inclusive design maakt e-mail toegankelijk voor iedereen](https://www.emerce.nl/achtergrond/inclusive-design-maakt-e-mail-toegankelijk-voor-iedereen) [Dutch]
+* [Community Contest: Creating an Accessible Email](https://litmus.com/community/discussions/6075-community-contest-creating-an-accessible-email)
+* [We’re Just Temporarily Abled](https://uxmag.com/articles/we-re-just-temporarily-abled)
+* [Stop Designing For Only 85% Of Users: Nailing Accessibility In Design](https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/)
+* [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
+* [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
+* [Trends That Exclude](https://axesslab.com/trends/)
+* [I thought title text improved accessibility. I was wrong.](https://silktide.com/blog/accessibility/i-thought-title-text-improved-accessibility-i-was-wrong/)
+* [HTML Email and Accessibility](https://css-tricks.com/html-email-accessibility/)
+* [Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)
+* [Email accessibility in action](https://www.hteumeuleu.com/2018/email-accessibility-in-action/)
+* [Title Texts Suck](https://axesslab.com/title-texts-suck/)
+* [Text Splitting Causes Screen Reader Problems](https://axesslab.com/text-splitting/)
+* [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors/)
+* [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
+* [Inclusive Design: 12 Ways to Design for Everyone](https://www.shopify.co.uk/partners/blog/inclusive-design)
+* [Why does email accessibility matter?](https://content.myemma.com/blog/why-does-email-accessibility-matter)
+* [How to test accessibility of emails](https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
+* [Accessibility and Inclusion with the World’s Most Popular Communication Tool: Email](https://www.24a11y.com/2018/accessibility-and-inclusion-with-email/)
+* [Why digital accessibility matters](https://www.invisionapp.com/inside-design/why-digital-accessibility-matters/)
+* [Accessibility in Email Marketing: 7 Simple Tricks to Make Your Code More Accessible](https://www.litmus.com/blog/7-simple-tricks-to-make-your-email-code-more-accessible/)
+* [Why Ignoring Email Accessibility is Hurting Your Business](https://optinmonster.com/why-ignoring-email-accessibility-is-hurting-your-business/)
+* [Rodriguez: The Difference Between Accessibility and Inclusion in Email Marketing](https://www.onlyinfluencers.com/email-marketing-blog-posts/best-practice-email-strategy/entry/the-difference-between-accessibility-and-inclusion-in-email-marketing)
+* [Email Accessibility: Looks aren’t everything.](https://explore.reallygoodemails.com/email-accessibility-looks-arent-everything-ad0b1f6af0a4)
+* [Accessibility vs. Inclusion: What it Takes to Create More Inclusive Email Marketing Experiences](https://www.litmus.com/blog/accessibility-vs-inclusion-what-it-takes-to-create-more-inclusive-email-marketing-experiences/)
+* [Accessibility in Digital Marketing](http://www.emaildesignreview.com/uncategorized/accessibility-in-digital-marketing-4148/)
+* [The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+* [Email Design Accessibility: Why It Is Important to Improve It](https://designmodo.com/email-accessibility/)
+* [Make email accessibility your New Year’s resolution](https://www.mailgun.com/blog/make-email-accessibility-your-new-years-resolution/)
+* [Accessibility in Email: Making it real](https://paul-airy.medium.com/accessibility-in-email-making-it-real-31bd289d285c)
 * [The effect of CSS on screen readers](https://uselessdivs.com/blog/the-effect-of-css-on-screen-readers)
 * [Writing great alt text: Emotion matters](https://jakearchibald.com/2021/great-alt-text/)
 * [Writing alternative text that matters](https://www.a11ywithlindsey.com/blog/writing-alternative-text-matters)
@@ -66,9 +61,9 @@
 * **[Friendly Reminder: Write Good Alt Text](https://www.a11y.email/friendly-reminder-write-good-alt-text/) NEW**
 
 ## Presentations
-* https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974
-* https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights
-* https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible
+* [A Type of Accessibility](https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974)
+* [Accessibility in email - #EoAInsights](https://www.slideshare.net/M_J_Robbins/accessibility-in-email-eoainsights)
+* [5 Pro Tips for Making Your Email More Accessible](https://www.slideshare.net/eROIAgency/roledrinks-ams-meetup-5-pro-tips-for-making-your-email-more-accessible)
 * [Exclusive Design – Vasilis van Gemert – btconfBER2017](https://www.youtube.com/watch?v=T7pJmrxcesI) [VIDEO]
 * [Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017](https://www.youtube.com/watch?v=NUaEhil4vrc&index=15&list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO) [VIDEO]
 * [Accessibility in HTML email — Mark Robbins: #ID24 Nov 2017](https://docs.google.com/presentation/d/1GvnKKKIFvjyzly5mvr_LLMKMgD4XNWgj1dlbIpSMkfE/edit#slide=id.g273d2bad7e_0_440) [SLIDES]
@@ -77,23 +72,22 @@
 * [Email Accessibility Tips from the Pros](https://litmus.com/resources/email-accessibility-tips-from-the-pros) [VIDEO]
 * [Accessibility in AMP](https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563) [VIDEO]
 * [Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach](https://blogs.oracle.com/marketingcloud/post/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach) [VIDEO]
-* https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible
+* [How to Make Ancient HTML Accessible]h(ttps://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible)
 
 ## Tools
-* https://www.accessible-email.org/
-* https://webaim.org/resources/contrastchecker/
+* [accessible-email.org](https://www.accessible-email.org/)
+* [WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
 * [VoiceOver Cheatsheet](https://twitter.com/mayabenari/status/822241555142426625)
 * [Text alternatives - a decision tree](https://4syllables.com.au/articles/text-alternatives-decision-tree/)
 * [An ongoing project to try and curate beautiful color palettes that are a11y friendly](https://www.randoma11y.com/)
 * [Funkify - Plugin for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities](https://www.funkify.org/)
-* https://apps.apple.com/app/contrast/id1254981365?ign-mpt=uo%3D6&mt=12
-* http://colororacle.org/
-* https://accessible-colors.com/
+* [Contrast — Color Accessibility](https://apps.apple.com/app/contrast/id1254981365?ign-mpt=uo%3D6&mt=12)
+* [colororacle.org](http://colororacle.org/)
+* [accessible-colors.com](https://accessible-colors.com/)
 * [Accessible Brand Colors - A tool that evaluates the ADA compliance of your brand’s color palette](https://abc.useallfive.com/)
 * [Email on Acid Accessibility Check](https://d1cr57qij2cwzh.cloudfront.net/wp-content/uploads/2018/11/Campaign-Precheck-Accessibility-Help-Center-Doc.pdf)
 * [Litmus Accessibility Check](https://www.litmus.com/blog/accessible-email-made-easy-introducing-accessibility-checks-in-litmus/)
 * [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
-* [a11yresources - A growing list of accessibility tools and resources](https://a11yresources.webflow.io/category/emails)
 * [axe Accessibility Linter for VS Code](https://www.deque.com/blog/shift-further-left-with-deques-axe-linter-for-vs-code/)
 * [A Complete Guide To Accessibility Tooling](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
 * [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
@@ -103,22 +97,16 @@
 * **[Email Reader View](https://emailmarkup.org/en/blog/2023/email-reader-view/) NEW**
 
 ## Resources
-* https://www.microsoft.com/design
-* https://www.smashingmagazine.com/category/accessibility
-* https://axesslab.com/accessibility-according-to-pwd/
-* [Tips from Hugo Giraudel](https://twitter.com/i/moments/877084869309980672)
-* https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
-* https://bitsofco.de/the-accessibility-cheatsheet/
-* https://a11yweekly.com/
-* https://axesslab.com/ 
-* https://email.uplers.com/infographics/emails-accessibility-best-practices/
+* [microsoft.com/design](https://www.microsoft.com/design)
+* [smashingmagazine.com/category/accessibility](https://www.smashingmagazine.com/category/accessibility)
+* [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
+* [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
+* [a11yweekly.com](https://a11yweekly.com/)
+* [axesslab.com](https://axesslab.com/)
+* [How to Craft the Perfect Accessible Email](https://email.uplers.com/infographics/emails-accessibility-best-practices/)
 * [24 days of digital accessibility gifts during the season of giving and sharing](https://www.24a11y.com/)
-* https://www.campaignmonitor.com/resources/guides/accessibility/
-* https://www.emailonacid.com/resource/email-accessibility-infographic/
-* https://www.litmus.com/blog/the-ultimate-guide-to-email-accessibility-making-emails-for-everyone/
-* https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017/
-* https://a11ysupport.io/
-* [a11yresources - A growing list of accessibility tools and resource](https://a11yresources.webflow.io/category/emails)
+* [Email development: Email accessibilty in 2017](https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017/)
+* [a11ysupport.io](https://a11ysupport.io/)
 * [A Designers Accessibility Checklist](https://www.actionrocket.co/email-design-review/designerchecklist)
 * [Email Design Review - Accessibility Posts](https://www.actionrocket.co/email-design-review/category/Accessibility)
 * [Screen Reader User Survey #9 Results](https://webaim.org/projects/screenreadersurvey9/)
@@ -133,6 +121,9 @@
 * **[a11y.email/resources-links](https://www.a11y.email/resources-links/) NEW**
 
 ## Guides
+* [Accessibility and Email Campaigns](https://www.campaignmonitor.com/resources/guides/accessibility/)
+* [Email Accessibility: Your Ultimate Guide](https://litmus.com/blog/ultimate-guide-accessible-emails)
+* [A Beginner’s Guide to Email Accessibility (Checklist + Resources)](https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-email-accessibility--cms-31240)
 * [Accessibility for teams](https://accessibility-for-teams.com/)
 * [An interactive guide to color & contrast](https://colorandcontrast.com/#/)
 * **[Writing for email: A Copywriter's Accessibility Guide](https://www.actionrocket.co/email-design-review/writing-for-email-a-copywriters-accessibility-guide) NEW**
@@ -155,6 +146,9 @@
 
 ## Courses
 * [Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/)
+
+## Infographic
+* [Email on Acid Accessibility Infographic](https://media.emailonacid.com/wp-content/uploads/2018/03/EOA_Accessibility_Infographic.pdf?_gl=1*c8jl6x*_gcl_au*MTI3OTk4ODI1NC4xNjkyNzM3MTA2)
 
 ## Reports
 * **[Accessibility Report 2023](https://emailmarkup.org/en/reports/accessibility/2023/) NEW**
