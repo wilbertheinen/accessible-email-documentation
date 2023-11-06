@@ -60,6 +60,8 @@
 * [European Accessibility Act: What you need to know](https://www.craigabbott.co.uk/blog/european-accessibility-act-what-you-need-to-know/)
 * [Friendly Reminder: Write Good Alt Text](https://www.a11y.email/friendly-reminder-write-good-alt-text/)
 * **[The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) NEW**
+* **[Aria-label or Alt?](https://www.a11y.email/basics-aria-label-or-alt/) NEW**
+* **[What makes up an accessible email CTA?](https://www.a11y.email/component-cta-buttons/) NEW**
 
 ## Presentations
 * [A Type of Accessibility](https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974)
@@ -133,6 +135,7 @@
 * [Guide to testing emails with a screen reader](https://parcel.io/guides/testing-emails-with-a-screen-reader)
 * **[Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) NEW**
 * **[A Roundup Of WCAG 2.2 Explainers](https://www.smashingmagazine.com/2023/10/roundup-wcag-explainers/) NEW**
+* **[Fix Color Contrast – Web Accessibility for Text & UI Design](https://pimpmytype.com/color-contrast/) NEW**
 * **[How To Make A Strong Case For Accessibility](https://smart-interface-design-patterns.com/articles/accessibility-strong-case/) NEW**
 
 ## Books
