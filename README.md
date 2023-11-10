@@ -158,6 +158,3 @@
 
 ## Infographic
 * [Email on Acid Accessibility Infographic](https://media.emailonacid.com/wp-content/uploads/2018/03/EOA_Accessibility_Infographic.pdf?_gl=1*c8jl6x*_gcl_au*MTI3OTk4ODI1NC4xNjkyNzM3MTA2)
-
-## Reports
-* [Accessibility Report 2023](https://emailmarkup.org/en/reports/accessibility/2023/)
