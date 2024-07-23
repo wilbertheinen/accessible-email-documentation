@@ -59,9 +59,10 @@
 * [Notes from the Dev: Email Accessibility Insights for Developers](https://www.emailonacid.com/blog/article/email-development/accessibility-insights-developers/)
 * [European Accessibility Act: What you need to know](https://www.craigabbott.co.uk/blog/european-accessibility-act-what-you-need-to-know/)
 * [Friendly Reminder: Write Good Alt Text](https://www.a11y.email/friendly-reminder-write-good-alt-text/)
-* **[The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) NEW**
-* **[Aria-label or Alt?](https://www.a11y.email/basics-aria-label-or-alt/) NEW**
-* **[What makes up an accessible email CTA?](https://www.a11y.email/component-cta-buttons/) NEW**
+* [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+* [Aria-label or Alt?](https://www.a11y.email/basics-aria-label-or-alt/)
+* [What makes up an accessible email CTA?](https://www.a11y.email/component-cta-buttons/)
+* **[Write Alt Text Like You’re Talking To A Friend](https://cloudfour.com/thinks/write-alt-text-like-youre-talking-to-a-friend/) NEW**
 
 ## Presentations
 * [A Type of Accessibility](https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974)
@@ -76,7 +77,7 @@
 * [Accessibility in AMP](https://www.youtube.com/watch?v=XPdmigsP0Sw&feature=youtu.be&t=2563) [VIDEO]
 * [Email Accessibility: Fulfill Your Legal Responsibilities and Expand Your Reach](https://blogs.oracle.com/marketingcloud/post/email-accessibility-fulfill-your-legal-responsibilities-and-expand-your-reach) [VIDEO]
 * [How to Make Ancient HTML Accessible](https://www.slideshare.net/StacyCarston/emails-how-to-make-ancient-html-accessible)
-* **[Accessibility Implementation: Removing the Resistance with Behavioural Science](https://www.beyondtheenvelope.co.uk/litmus-live-2023/Accessibility-Implementation.pdf) NEW**
+* [Accessibility Implementation: Removing the Resistance with Behavioural Science](https://www.beyondtheenvelope.co.uk/litmus-live-2023/Accessibility-Implementation.pdf)
 
 ## Tools
 * [accessible-email.org](https://www.accessible-email.org/)
@@ -99,6 +100,7 @@
 * [Parcel - The Email Coding Platform](https://parcel.io/)
 * [Accessibility testers you can trust](https://makeitfable.com/testers/)
 * [Email Reader View](https://emailmarkup.org/en/blog/2023/email-reader-view/)
+* **[WCAG Plugin (Figma)](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin) NEW**
 
 ## Resources
 * [microsoft.com/design](https://www.microsoft.com/design)
@@ -123,7 +125,7 @@
 * [The Book on Accessibility](https://www.thebookonaccessibility.com/)
 * [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
 * [a11y.email/resources-links](https://www.a11y.email/resources-links/)
-* **[Accessibility Myths](https://a11ymyths.com/) NEW**
+* [Accessibility Myths](https://a11ymyths.com/)
 
 ## Guides
 * [Accessibility and Email Campaigns](https://www.campaignmonitor.com/resources/guides/accessibility/)
@@ -133,10 +135,10 @@
 * [An interactive guide to color & contrast](https://colorandcontrast.com/#/)
 * [Writing for email: A Copywriter's Accessibility Guide](https://www.actionrocket.co/email-design-review/writing-for-email-a-copywriters-accessibility-guide)
 * [Guide to testing emails with a screen reader](https://parcel.io/guides/testing-emails-with-a-screen-reader)
-* **[Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/) NEW**
-* **[A Roundup Of WCAG 2.2 Explainers](https://www.smashingmagazine.com/2023/10/roundup-wcag-explainers/) NEW**
-* **[Fix Color Contrast – Web Accessibility for Text & UI Design](https://pimpmytype.com/color-contrast/) NEW**
-* **[How To Make A Strong Case For Accessibility](https://smart-interface-design-patterns.com/articles/accessibility-strong-case/) NEW**
+* [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
+* [A Roundup Of WCAG 2.2 Explainers](https://www.smashingmagazine.com/2023/10/roundup-wcag-explainers/)
+* [Fix Color Contrast – Web Accessibility for Text & UI Design](https://pimpmytype.com/color-contrast/)
+* [How To Make A Strong Case For Accessibility](https://smart-interface-design-patterns.com/articles/accessibility-strong-case/)
 
 ## Books
 * [Inclusive design patterns](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/)
@@ -152,6 +154,8 @@
 * [#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/)
 * [How to Make Your Emails More Accessible](https://www.sparkpost.com/send-it-school/email-accessibility/?vid=display)
 * [Notes from the Dev: Email Accessibility Insights for Developers](https://www.emailonacid.com/blog/article/email-development/accessibility-insights-developers/)
+* **[Exploring email accessibility with Sarah Gallardo](https://stripo.email/webinars/exploring-email-accessibility-with-sarah-gallardo/) NEW**
+* **[Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites) NEW**
 
 ## Courses
 * [Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/)
@@ -161,3 +165,10 @@
 
 ## Reports
 * [Accessibility Report 2023](https://emailmarkup.org/en/reports/accessibility/2023/)
+* **[Accessibility Report 2024](https://emailmarkup.org/en/reports/accessibility/2023/) NEW**
+
+## Legislation
+* **[Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites) NEW**
+* **[The European Accessibility Act: Empowering Inclusion in Digital Environments](https://medium.com/@norbert-pap/the-european-accessibility-act-empowering-inclusion-in-digital-environments-c5d58f2d854f) NEW**
+* **[European Accessibility Act (EAA): Top 20 Key Questions Answered](https://www.deque.com/blog/european-accessibility-act-eaa-top-20-key-questions-answered/) NEW**
+* **[European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/) NEW**
