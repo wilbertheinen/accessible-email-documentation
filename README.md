@@ -171,4 +171,4 @@
 * **[Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites) NEW**
 * **[The European Accessibility Act: Empowering Inclusion in Digital Environments](https://medium.com/@norbert-pap/the-european-accessibility-act-empowering-inclusion-in-digital-environments-c5d58f2d854f) NEW**
 * **[European Accessibility Act (EAA): Top 20 Key Questions Answered](https://www.deque.com/blog/european-accessibility-act-eaa-top-20-key-questions-answered/) NEW**
-* **[European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/) NEW**
+* **[European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/) NEW** 
