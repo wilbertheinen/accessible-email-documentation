@@ -1,4 +1,4 @@
-# Accessible Emails
+# Accessible Email
 **A list of great articles, tools, presentations and resources about accessibility in general and specifically for email**
 
 ## Articles
