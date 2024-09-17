@@ -63,6 +63,7 @@
 * [Aria-label or Alt?](https://www.a11y.email/basics-aria-label-or-alt/)
 * [What makes up an accessible email CTA?](https://www.a11y.email/component-cta-buttons/)
 * **[Write Alt Text Like You’re Talking To A Friend](https://cloudfour.com/thinks/write-alt-text-like-youre-talking-to-a-friend/) NEW**
+* **[Making accessibility a habit](https://blocksedit.com/content-code/accessibility-habit/) NEW**
 
 ## Presentations
 * [A Type of Accessibility](https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974)
