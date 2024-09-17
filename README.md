@@ -62,8 +62,11 @@
 * [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 * [Aria-label or Alt?](https://www.a11y.email/basics-aria-label-or-alt/)
 * [What makes up an accessible email CTA?](https://www.a11y.email/component-cta-buttons/)
-* **[Write Alt Text Like You’re Talking To A Friend](https://cloudfour.com/thinks/write-alt-text-like-youre-talking-to-a-friend/) NEW**
+* [Write Alt Text Like You’re Talking To A Friend](https://cloudfour.com/thinks/write-alt-text-like-youre-talking-to-a-friend/)
 * **[Making accessibility a habit](https://blocksedit.com/content-code/accessibility-habit/) NEW**
+* **[The article element](https://heydonworks.com/article/the-article-element/) NEW**
+* **[Why image-based emails are bad](https://a11y.email/why-image-based-emails-are-bad/) NEW**
+* **[Landmarks in email](https://a11y.email/landmarks-in-email/) NEW**
 
 ## Presentations
 * [A Type of Accessibility](https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974)
@@ -101,7 +104,7 @@
 * [Parcel - The Email Coding Platform](https://parcel.io/)
 * [Accessibility testers you can trust](https://makeitfable.com/testers/)
 * [Email Reader View](https://emailmarkup.org/en/blog/2023/email-reader-view/)
-* **[WCAG Plugin (Figma)](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin) NEW**
+* [WCAG Plugin (Figma)](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
 
 ## Resources
 * [microsoft.com/design](https://www.microsoft.com/design)
@@ -155,8 +158,8 @@
 * [#88. Email Accessability with Megan Boshuyzen](https://flowium.com/podcasts/email-accessability-megan-boshuyzen/)
 * [How to Make Your Emails More Accessible](https://www.sparkpost.com/send-it-school/email-accessibility/?vid=display)
 * [Notes from the Dev: Email Accessibility Insights for Developers](https://www.emailonacid.com/blog/article/email-development/accessibility-insights-developers/)
-* **[Exploring email accessibility with Sarah Gallardo](https://stripo.email/webinars/exploring-email-accessibility-with-sarah-gallardo/) NEW**
-* **[Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites) NEW**
+* [Exploring email accessibility with Sarah Gallardo](https://stripo.email/webinars/exploring-email-accessibility-with-sarah-gallardo/)
+* [Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites)
 
 ## Courses
 * [Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/)
@@ -166,10 +169,10 @@
 
 ## Reports
 * [Accessibility Report 2023](https://emailmarkup.org/en/reports/accessibility/2023/)
-* **[Accessibility Report 2024](https://emailmarkup.org/en/reports/accessibility/2023/) NEW**
+* [Accessibility Report 2024](https://emailmarkup.org/en/reports/accessibility/2024/)
 
 ## Legislation
-* **[Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites) NEW**
-* **[The European Accessibility Act: Empowering Inclusion in Digital Environments](https://medium.com/@norbert-pap/the-european-accessibility-act-empowering-inclusion-in-digital-environments-c5d58f2d854f) NEW**
-* **[European Accessibility Act (EAA): Top 20 Key Questions Answered](https://www.deque.com/blog/european-accessibility-act-eaa-top-20-key-questions-answered/) NEW**
-* **[European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/) NEW** 
+* [Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites)
+* [The European Accessibility Act: Empowering Inclusion in Digital Environments](https://medium.com/@norbert-pap/the-european-accessibility-act-empowering-inclusion-in-digital-environments-c5d58f2d854f)
+* [European Accessibility Act (EAA): Top 20 Key Questions Answered](https://www.deque.com/blog/european-accessibility-act-eaa-top-20-key-questions-answered/)
+* [European Accessibility Act (EAA) – What you need to know](https://axesslab.com/european-accessibility-act-eaa-what-you-need-to-know/)
