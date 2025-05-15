@@ -63,10 +63,11 @@
 * [Aria-label or Alt?](https://www.a11y.email/basics-aria-label-or-alt/)
 * [What makes up an accessible email CTA?](https://www.a11y.email/component-cta-buttons/)
 * [Write Alt Text Like You’re Talking To A Friend](https://cloudfour.com/thinks/write-alt-text-like-youre-talking-to-a-friend/)
-* **[Making accessibility a habit](https://blocksedit.com/content-code/accessibility-habit/) NEW**
-* **[The article element](https://heydonworks.com/article/the-article-element/) NEW**
-* **[Why image-based emails are bad](https://a11y.email/why-image-based-emails-are-bad/) NEW**
-* **[Landmarks in email](https://a11y.email/landmarks-in-email/) NEW**
+* [Making accessibility a habit](https://blocksedit.com/content-code/accessibility-habit/)
+* [The article element](https://heydonworks.com/article/the-article-element/)
+* [Why image-based emails are bad](https://a11y.email/why-image-based-emails-are-bad/)
+* [Landmarks in email](https://a11y.email/landmarks-in-email/)
+* **[WCAG Colour Contrast: What does the 4.5:1 ratio actually mean?](https://davedavies.dev/posts/wcag-colour-contrast-explained/) NEW**
 
 ## Presentations
 * [A Type of Accessibility](https://www.slideshare.net/paulairy/a-type-of-accessibility-65004974)
@@ -105,6 +106,7 @@
 * [Accessibility testers you can trust](https://makeitfable.com/testers/)
 * [Email Reader View](https://emailmarkup.org/en/blog/2023/email-reader-view/)
 * [WCAG Plugin (Figma)](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
+* **[Find out how many people might have a disability or impairment, who could use your service](https://accessibility.education.gov.uk/app/how-many-people) NEW**
 
 ## Resources
 * [microsoft.com/design](https://www.microsoft.com/design)
@@ -130,6 +132,7 @@
 * [WCAG, but in language I can understand](https://www.tempertemper.net/blog/wcag-but-in-language-i-can-understand)
 * [a11y.email/resources-links](https://www.a11y.email/resources-links/)
 * [Accessibility Myths](https://a11ymyths.com/)
+* **[WCAG in Plain English](https://aaardvarkaccessibility.com/wcag-plain-english/) NEW**
 
 ## Guides
 * [Accessibility and Email Campaigns](https://www.campaignmonitor.com/resources/guides/accessibility/)
@@ -143,6 +146,7 @@
 * [A Roundup Of WCAG 2.2 Explainers](https://www.smashingmagazine.com/2023/10/roundup-wcag-explainers/)
 * [Fix Color Contrast – Web Accessibility for Text & UI Design](https://pimpmytype.com/color-contrast/)
 * [How To Make A Strong Case For Accessibility](https://smart-interface-design-patterns.com/articles/accessibility-strong-case/)
+* **[Principles Of Web Accessibility](https://github.com/Heydon/principles-of-web-accessibility) NEW**
 
 ## Books
 * [Inclusive design patterns](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/)
@@ -160,6 +164,7 @@
 * [Notes from the Dev: Email Accessibility Insights for Developers](https://www.emailonacid.com/blog/article/email-development/accessibility-insights-developers/)
 * [Exploring email accessibility with Sarah Gallardo](https://stripo.email/webinars/exploring-email-accessibility-with-sarah-gallardo/)
 * [Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites)
+* **[From compliance to connection: Why businesses must embrace email accessibility](https://www.litmus.com/resources/why-businesses-must-embrace-email-accessibility) NEW**
 
 ## Courses
 * [Learn Email Accessibility with The Better Email](https://thebetter.email/guides/on-accessibility/)
@@ -170,6 +175,7 @@
 ## Reports
 * [Accessibility Report 2023](https://emailmarkup.org/en/reports/accessibility/2023/)
 * [Accessibility Report 2024](https://emailmarkup.org/en/reports/accessibility/2024/)
+* **[Accessibility Report 2025](https://emailmarkup.org/en/reports/accessibility/2025/) NEW**
 
 ## Legislation
 * [Rian Rietveld on Understanding the European Accessibility Act and Its Impact on Websites](https://wptavern.com/podcast/127-rian-rietveld-on-understanding-the-european-accessibility-act-and-its-impact-on-websites)
